@@ -1,0 +1,12 @@
+{
+	"Name": "Fix Those Beds!",
+	"Author": "SpringsSong",
+	"Version": "1.0.0",
+	"Description": "A small map patch mod to fix the double beds in Robin's and Pierre's using tiles from both the double and single beds.",
+	"UniqueID": "SpringsSong.FixThoseBeds",
+	"MinimumAPIVersion": "3.0.1",
+	"UpdateKeys": ["ModDrop:688337"],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	}
+}

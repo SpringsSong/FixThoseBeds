@@ -1,0 +1,61 @@
+{
+	"Format": "1.11.0",
+	"Changes": [
+		{
+			"Action": "EditMap",
+			"Target": "Maps/ScienceHouse",
+			"FromFile": "assets/RobinBedLeft.tbin",
+			"ToArea": {
+				"X": 19,
+				"Y": 2, 
+				"Width": 1,
+				"Height": 4
+			},
+			"When": {
+				"Hasmod:Karmylla.ImmersiveMaps": false,
+			}
+		},
+		{
+			"Action": "EditMap",
+			"Target": "Maps/ScienceHouse",
+			"FromFile": "assets/RobinBedRight.tbin",
+			"ToArea": {
+				"X": 21,
+				"Y": 2,
+				"Width": 1,
+				"Height": 4
+			},
+			"When": {
+				"Hasmod:Karmylla.ImmersiveMaps": false,
+			}
+		},
+		{
+			"Action": "EditMap",
+			"Target": "Maps/SeedShop",
+			"FromFile": "assets/PierreBedLeft.tbin",
+			"ToArea": {
+				"X": 23,
+				"Y": 2,
+				"Width": 1,
+				"Height": 4
+			},
+			"When": {
+				"Hasmod:Karmylla.ImmersiveMaps": false,
+			}
+		},
+		{
+			"Action": "EditMap",
+			"Target": "Maps/SeedShop",
+			"FromFile": "assets/PierreBedRight.tbin",
+			"ToArea": {
+				"X": 25,
+				"Y": 2,
+				"Width": 1,
+				"Height": 4
+			},
+			"When": {
+				"Hasmod:Karmylla.ImmersiveMaps": false,
+			}
+		}
+	]
+}
