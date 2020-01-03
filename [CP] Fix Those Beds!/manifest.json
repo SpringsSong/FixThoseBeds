@@ -5,7 +5,7 @@
 	"Description": "A small map patch mod to fix the double beds in Robin's and Pierre's using tiles from both the double and single beds.",
 	"UniqueID": "SpringsSong.FixThoseBeds",
 	"MinimumAPIVersion": "3.0.1",
-	"UpdateKeys": ["ModDrop:688337"],
+	"UpdateKeys": ["ModDrop:688337", "Github:SpringsSong/FixThoseBeds", "Chucklefish:5919"],
 	"ContentPackFor": {
 		"UniqueID": "Pathoschild.ContentPatcher"
 	}
